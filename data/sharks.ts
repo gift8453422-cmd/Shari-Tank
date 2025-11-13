@@ -1,0 +1,11 @@
+import { Shark } from '../types.ts';
+
+export const SHARKS_DATA: Shark[] = [
+    { id: 1, name: "Anupam Mittal", imageChar: "A", bio: "Founder and CEO of People Group (Shaadi.com). Known for his deep understanding of consumer internet businesses and brand building. He often acts as a mentor to young entrepreneurs.", imageUrl: "https://sharktankindia.com/wp-content/uploads/2023/12/Anupam-Mittal-1.webp" },
+    { id: 2, name: "Aman Gupta", imageChar: "A", bio: "Co-founder and CMO of boAt. A marketing guru with a knack for creating viral brands. He looks for passionate founders and scalable D2C products.", imageUrl: "https://sharktankindia.com/wp-content/uploads/2023/12/Aman-Gupta-1.webp" },
+    { id: 3, name: "Namita Thapar", imageChar: "N", bio: "Executive Director of Emcure Pharmaceuticals. With extensive experience in the healthcare sector, she seeks businesses with a strong social impact and clear profitability.", imageUrl: "https://sharktankindia.com/wp-content/uploads/2023/12/Namita-Thapar-1.webp" },
+    { id: 4, name: "Vineeta Singh", imageChar: "V", bio: "Co-founder and CEO of SUGAR Cosmetics. A resilient entrepreneur who values grit and determination. She is drawn to consumer brands with strong female leadership.", imageUrl: "https://sharktankindia.com/wp-content/uploads/2023/12/Vineeta-Singh-1.webp" },
+    { id: 5, name: "Peyush Bansal", imageChar: "P", bio: "Co-founder and CEO of Lenskart. A visionary with a focus on technology and large-scale problem-solving. He invests in mission-driven founders and tech-first companies.", imageUrl: "https://sharktankindia.com/wp-content/uploads/2023/12/Peyush-Bansal-1.webp" },
+    { id: 6, name: "Ashneer Grover", imageChar: "A", bio: "Former Co-founder of BharatPe. Known for his blunt feedback and focus on numbers. He looks for clear business models and founders who are 'dhande ka aadmi' (business-savvy).", imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Ashneer_Grover_photo.jpg/800px-Ashneer_Grover_photo.jpg"},
+    { id: 7, name: "Kunal Bahl", imageChar: "K", bio: "Co-founder of Snapdeal and Titan Capital. Known for his expertise in e-commerce and as a prolific angel investor backing numerous startups.", imageUrl: "https://images.yourstory.com/cs/images/people/KunalBahl-1642158021171.jpg" }
+];
